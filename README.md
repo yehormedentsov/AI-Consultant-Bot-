@@ -41,4 +41,4 @@ An automated customer support Telegram bot for e-commerce, built with **n8n** an
 * A **Google Gemini API Key** (obtainable via [Google AI Studio](https://aistudio.google.com/)).
 
 ### Installation
-1. Clone this repository or download the `workflow.json`
+1. Clone this repository or download the `aiAgentTGBot.json`
