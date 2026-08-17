@@ -24,8 +24,6 @@ An automated customer support Telegram bot for e-commerce, built with **n8n** an
 
 ## 📐 Architecture
 
-![Workflow Architecture](architecture.png)
-
 ### Workflow Overview:
 1. **Telegram Trigger:** Listens for incoming user messages in real time.
 2. **AI Agent Node:** Processes the user query using the predefined store persona and guidelines.
@@ -43,6 +41,4 @@ An automated customer support Telegram bot for e-commerce, built with **n8n** an
 * A **Google Gemini API Key** (obtainable via [Google AI Studio](https://aistudio.google.com/)).
 
 ### Installation
-1. Clone this repository or download the `workflow.json` file:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+1. Clone this repository or download the `workflow.json`
